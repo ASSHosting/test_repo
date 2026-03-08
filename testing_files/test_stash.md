@@ -1,1 +1,1 @@
-Bugfix: Tippfehler korrigiert
+Nach Bugfix: Feature A - in Arbeit
