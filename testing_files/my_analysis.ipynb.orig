@@ -1,0 +1,55 @@
+{
+ "cells": [
+  {
+   "cell_type": "markdown",
+   "id": "5cd9d1fc",
+   "metadata": {},
+   "source": [
+    "<span style=\"color:red\"><b><<<<<<< local</b></span>"
+   ]
+  },
+  {
+   "cell_type": "code",
+   "execution_count": null,
+   "metadata": {},
+   "outputs": [],
+   "source": [
+    "print(\"Dringender Bugfix\")"
+   ]
+  },
+  {
+   "cell_type": "markdown",
+   "id": "caa78a09",
+   "metadata": {},
+   "source": [
+    "<span style=\"color:red\"><b>=======</b></span>"
+   ]
+  },
+  {
+   "cell_type": "code",
+   "execution_count": null,
+   "metadata": {},
+   "outputs": [],
+   "source": [
+    "print(\"Feature A\")"
+   ]
+  },
+  {
+   "cell_type": "markdown",
+   "id": "c52792be",
+   "metadata": {},
+   "source": [
+    "<span style=\"color:red\"><b>>>>>>>> remote</b></span>"
+   ]
+  }
+ ],
+ "metadata": {
+  "kernelspec": {
+   "display_name": "Python 3",
+   "language": "python",
+   "name": "python3"
+  }
+ },
+ "nbformat": 4,
+ "nbformat_minor": 4
+}
